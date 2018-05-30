@@ -1,0 +1,32 @@
+/* Styles go here */
+
+.header_info{
+  text-align:center;
+  text-decoration:underline;
+  color:blue;
+}
+.weather_info{
+  text-align:center;
+}
+.temparature_info{
+  float:left;
+  text-align:center;
+  margin-left: 45%;
+  margin-top: 5px;
+  font-size:45px;
+}
+.synbol_show{
+  margin-left:10px;
+  float:left;
+  font-size:45px;
+}
+.waether_state{
+  clear:both;
+  margin-top:35px;
+  color:green;
+  font-size:25px;
+  padding-top:25px;
+}
+.synbol_show{
+  display:none;
+}
